@@ -1,4 +1,4 @@
-# Built an AI-driven system for optimizing urban commute routes across multiple transportation modes. Implemented personalized and budget-aware route recommendations using multi-criteria analysis.
+# AI-Based Multi-Modal Urban Transportation Optimization System
 
 A comprehensive AI-powered platform that integrates multiple public transport modes and provides intelligent journey recommendations based on cost, time, comfort, and safety.
 
